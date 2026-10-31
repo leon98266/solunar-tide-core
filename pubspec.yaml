@@ -1,0 +1,13 @@
+name: solunar_tide_core
+description: >-
+  Lightweight offline solunar & tide fishing-time library for fishing apps.
+  Pure Dart, no network, no external dependencies. MIT.
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.24.0
